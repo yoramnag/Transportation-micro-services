@@ -12,4 +12,4 @@ to run this project you need:
 steps to run the project:
 1. you need to import the project to your workbacnch and click maven -> update project 
 2. run MySQL and copy Transportation_company.sql to sql tab and run the script, this will crate all the tables that you need for the project.
-3. run postman , import the transportationCompany-Spring-data-REST2.postman_collection.json, this will to run rest calls to the microserver.
+3. run postman , import the transportationCompany-Spring-data-REST2.postman_collection.json, this is to run rest calls to the microserver.
